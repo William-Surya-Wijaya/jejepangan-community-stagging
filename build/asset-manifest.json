@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jejepangan-community-stagging/static/css/main.6e3a1534.css",
-    "main.js": "/jejepangan-community-stagging/static/js/main.04ee2ce5.js",
+    "main.css": "/jejepangan-community-stagging/static/css/main.11334157.css",
+    "main.js": "/jejepangan-community-stagging/static/js/main.ad57b58a.js",
     "static/js/453.7b168042.chunk.js": "/jejepangan-community-stagging/static/js/453.7b168042.chunk.js",
     "static/media/slide4.jpg": "/jejepangan-community-stagging/static/media/slide4.69177c704d5f676be3ca.jpg",
     "static/media/slide3.jpg": "/jejepangan-community-stagging/static/media/slide3.90f535c055640c672762.jpg",
@@ -19,12 +19,12 @@
     "static/media/paperplane-right.svg": "/jejepangan-community-stagging/static/media/paperplane-right.2ddd75622abd728a5e0651f7dcbd9768.svg",
     "static/media/slick.woff": "/jejepangan-community-stagging/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/jejepangan-community-stagging/index.html",
-    "main.6e3a1534.css.map": "/jejepangan-community-stagging/static/css/main.6e3a1534.css.map",
-    "main.04ee2ce5.js.map": "/jejepangan-community-stagging/static/js/main.04ee2ce5.js.map",
+    "main.11334157.css.map": "/jejepangan-community-stagging/static/css/main.11334157.css.map",
+    "main.ad57b58a.js.map": "/jejepangan-community-stagging/static/js/main.ad57b58a.js.map",
     "453.7b168042.chunk.js.map": "/jejepangan-community-stagging/static/js/453.7b168042.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e3a1534.css",
-    "static/js/main.04ee2ce5.js"
+    "static/css/main.11334157.css",
+    "static/js/main.ad57b58a.js"
   ]
 }
