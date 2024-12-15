@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/jejepangan-community-stagging/static/css/main.11334157.css",
-    "main.js": "/jejepangan-community-stagging/static/js/main.ad57b58a.js",
+    "main.css": "/jejepangan-community-stagging/static/css/main.78346ebc.css",
+    "main.js": "/jejepangan-community-stagging/static/js/main.90bbdfee.js",
     "static/js/453.7b168042.chunk.js": "/jejepangan-community-stagging/static/js/453.7b168042.chunk.js",
     "static/media/slide4.jpg": "/jejepangan-community-stagging/static/media/slide4.69177c704d5f676be3ca.jpg",
     "static/media/slide3.jpg": "/jejepangan-community-stagging/static/media/slide3.90f535c055640c672762.jpg",
+    "static/media/event4.jpg": "/jejepangan-community-stagging/static/media/event4.277b164d5612545dde99.jpg",
     "static/media/bootstrap-icons.woff?": "/jejepangan-community-stagging/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/event5.jpg": "/jejepangan-community-stagging/static/media/event5.1ddc9a297fb72e2d278b.jpg",
+    "static/media/event2.jpg": "/jejepangan-community-stagging/static/media/event2.4e2a0ef0c2ad3228cb9f.jpg",
     "static/media/slide1.jpg": "/jejepangan-community-stagging/static/media/slide1.54f4e9fffa02d8dd0a86.jpg",
     "static/media/bootstrap-icons.woff2?": "/jejepangan-community-stagging/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/event3.jpg": "/jejepangan-community-stagging/static/media/event3.5b4e9aa3570c3079cbca.jpg",
+    "static/media/event1.jpg": "/jejepangan-community-stagging/static/media/event1.4eb54b3bf7b67b50894b.jpg",
     "static/media/slide2.jpg": "/jejepangan-community-stagging/static/media/slide2.bc75e42cde1d33e503db.jpg",
     "static/media/pattern-circle.svg": "/jejepangan-community-stagging/static/media/pattern-circle.a480056b35017e767b77d2d283d1540d.svg",
     "static/media/pattern-square.svg": "/jejepangan-community-stagging/static/media/pattern-square.a20a6486754261fb13016dce85b2086e.svg",
@@ -19,12 +24,12 @@
     "static/media/paperplane-right.svg": "/jejepangan-community-stagging/static/media/paperplane-right.2ddd75622abd728a5e0651f7dcbd9768.svg",
     "static/media/slick.woff": "/jejepangan-community-stagging/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/jejepangan-community-stagging/index.html",
-    "main.11334157.css.map": "/jejepangan-community-stagging/static/css/main.11334157.css.map",
-    "main.ad57b58a.js.map": "/jejepangan-community-stagging/static/js/main.ad57b58a.js.map",
+    "main.78346ebc.css.map": "/jejepangan-community-stagging/static/css/main.78346ebc.css.map",
+    "main.90bbdfee.js.map": "/jejepangan-community-stagging/static/js/main.90bbdfee.js.map",
     "453.7b168042.chunk.js.map": "/jejepangan-community-stagging/static/js/453.7b168042.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11334157.css",
-    "static/js/main.ad57b58a.js"
+    "static/css/main.78346ebc.css",
+    "static/js/main.90bbdfee.js"
   ]
 }
